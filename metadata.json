@@ -1,0 +1,6 @@
+{
+  "name": "Hóa Học 10 - Bảng Tuần Hoàn & Chuyên Đề Oxide - Hydroxide",
+  "description": "Ứng dụng web tương tác học tập Hóa học 10 chuẩn GDPT 2018 với Bảng Tuần Hoàn 118 nguyên tố, chuyên đề Oxide - Hydroxide, bài tập luyện tập và phòng thi Mini Test tự động hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
